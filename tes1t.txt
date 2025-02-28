@@ -1,0 +1,25 @@
+I hope you're doing well. As we approach the end of the year, I wanted to take a moment to reflect on the contributions and growth I've experienced as the Tech Lead for the SCOM team.
+
+Over the course of this year, I've had the opportunity to:
+
+Issue Resolution & Client Satisfaction: Led the team in diagnosing and resolving critical SCOM-related issues, consistently delivering timely and effective solutions to both Microsoft and our clients.
+
+Team Management & Development: Managed and supported the team, fostering a collaborative work environment and facilitating continuous skill development. This has contributed to reducing backlogs and enhancing overall team performance.
+
+Escalation Handling: Effectively addressed and resolved escalations, ensuring quick resolutions for high-priority issues and maintaining strong client satisfaction.
+
+On-Time Delivery & Reporting: Delivered solutions on time and maintained clear and accurate reporting for all stakeholders, ensuring transparency and alignment with objectives.
+
+Triage Calls Leadership: Led triage calls, ensuring that issues were properly prioritized and that the team was aligned on the best approach to resolution.
+
+Customer Performance: Consistently met and exceeded customer performance expectations, ensuring high levels of service quality and client satisfaction.
+
+PCMS Review & Case Hygiene: Took ownership of regularly reviewing all critical cases through PCMS, maintaining case hygiene and ensuring proper tracking and management of issues.
+
+Linux Skill Enhancement: Given the challenges our team faces with Linux-related cases, I have taken the initiative to improve my own Linux skills, enabling me to better support the team and provide quicker resolutions for complex issues.
+
+Throughout the year, I have also taken on a variety of tasks that supported the overall operations, ensuring that key responsibilities were met and that the team had the resources and guidance needed for success.
+
+I am proud of what we’ve accomplished as a team, and I look forward to continuing to contribute to our success in the year ahead.
+
+Thank you for your continued support and guidance.
